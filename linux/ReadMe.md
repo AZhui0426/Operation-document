@@ -102,3 +102,9 @@ scrape_configs:
 ./promtool check config prometheus.yml
 kill -hup PID
 ```
+
+
+
+# yum卸载与安装
+
+https://blog.csdn.net/qq_35896718/article/details/122409669

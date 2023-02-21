@@ -1,0 +1,2 @@
+直接执行如下命令：
+yum install perl
